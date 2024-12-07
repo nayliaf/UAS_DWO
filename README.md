@@ -5,9 +5,9 @@ Program Studi Sistem Informasi <br/>
 Fakultas Ilmu Komputer <br/>
 UPN "Veteran" Jawa Timur<br/>
 Anggota :<br/>
-1. Engie Ramadhani (22082010029)<br/>
-2. Vione Mangunsong (22082010063)<br/>
-3. Nayli Amirah Firdaus (22082010090)<br/>
+1.Engie Ramadhani (22082010029)<br/>
+2.Vione Mangunsong (22082010063)<br/>
+3.Nayli Amirah Firdaus (22082010090)<br/>
 <br/>
 Langkah-langkah yang dibutuhkan untuk menjalankan app dengan baik :
 1. Install database server: MySql (disini kami menggunakan Xampp versi terbaru).
